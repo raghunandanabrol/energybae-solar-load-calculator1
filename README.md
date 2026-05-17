@@ -24,7 +24,7 @@ into solar load calculation Excel reports.
 ## ⚡ How To Run
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/energybae-solar-calculator.git
+git clone https://github.com/yourusername/energybae-solar-calculator1.git
 cd energybae-solar-calculator
 
 ### 2. Install libraries
