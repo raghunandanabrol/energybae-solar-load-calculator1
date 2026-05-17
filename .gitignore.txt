@@ -1,0 +1,21 @@
+# Secret keys — never upload
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# PyCharm files
+.idea/
+
+# Output files
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
